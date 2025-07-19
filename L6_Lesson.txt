@@ -1,0 +1,15 @@
+List:
+mutable,
+multiple elements separated by comma, enclosed in square brackets,
+ordered
+
+Tuple:
+round brackets,
+like list but immutable,
+ordered
+
+Addition of two lists/tuples gives concatenation. They are not suitable for arithmetic operation.
+
+Two-dimensional list = Nested list
+
+ord() to print ASCII value
