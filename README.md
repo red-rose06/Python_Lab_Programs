@@ -1,3 +1,3 @@
 # Python_Lab_Programs
 
-#Python programs I did in my Lab in the second semester.
+Python programs I wrote in my Lab in the second semester.
